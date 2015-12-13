@@ -969,15 +969,13 @@ background:#8EC358;
 }
 
 .ch-img-2 { 
-	background-image: url(../images/17.jpg);
+	background-image: url(../images/17.gif);
 }
 
 .ch-img-3 { 
 	background-image: url(../images/18.jpg);
 }
-.ch-img-4{ 
-	background-image: url(../images/19.jpg);
-}
+
 .ch-info h4{
     font-family: 'Niconne-Regular';
 	color: #DF1E1C;
